@@ -8,6 +8,7 @@ To determine if a number can be evenly divided by 5 or 7, use the JavaScript rem
 For example...
 
 // Only show even numbers
+
 const numbers = [1,2,3,4,5,6,7]
 
 for (let i = 0; i < numbers.length; i++) {
